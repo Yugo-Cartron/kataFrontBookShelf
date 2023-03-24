@@ -5,7 +5,7 @@
 <main class="page">
   <div class="background"></div>
   <h1 class="app-title">
-    Wonderfull BookShelf
+    Ugly BookShelf
   </h1>
   <BookShelf />
 </main>
@@ -21,15 +21,6 @@
     z-index: -1;
     background-color: #8EC5FC;
     background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 90%);
-
-
-
-
-
-
-
-
-
   }
 
   .page {
